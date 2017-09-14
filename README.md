@@ -1,5 +1,7 @@
 # How to Git Better at Git
 
+
+- By Daric Teske
 ---
 
 usage: git [--version] [--help] [-C <path>] [-c name=value]  
