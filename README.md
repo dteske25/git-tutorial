@@ -1,7 +1,11 @@
 # How to Git Better at Git
 
 
+
 - By Sarah Clark
+
+with help from  Anthony Benes
+
 ---
 
 usage: git [--version] [--help] [-C <path>] [-c name=value]  
