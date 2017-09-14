@@ -1,7 +1,7 @@
 # How to Git Better at Git
 
 
-- By Daric Teske
+- By Anthony Benes & Sarah Clark
 ---
 
 usage: git [--version] [--help] [-C <path>] [-c name=value]  
