@@ -1,8 +1,8 @@
 # How to Git Better at Git
 
 
+- By Dominic Paul + Daric
 
-- By Daric Teske
 
 ---
 
