@@ -2,7 +2,9 @@
 
 
 
-- By Dominic Paul
+
+- By Dominic Paul & Daric
+
 
 ---
 
