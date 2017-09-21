@@ -2,10 +2,7 @@
 
 
 
-- By Haleigh Graham
-
-- By Anirudh PAT
-
+- By Anirudh PAT & Haleigh Graham
 
 ---
 
