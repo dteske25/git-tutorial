@@ -1,9 +1,7 @@
 # How to Git Better at Git
 
 
-- By Sarah Clark
-
-with help from  Anthony Benes
+- By Anirudh PAT
 
 ---
 
