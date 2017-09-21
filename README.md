@@ -2,7 +2,7 @@
 
 
 
-- By Daric Teske
+- By Daric
 
 ---
 
