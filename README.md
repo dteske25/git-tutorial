@@ -1,7 +1,11 @@
 # How to Git Better at Git
 
 
+
 - By Haleigh Graham
+
+- By Anirudh PAT
+
 
 ---
 
