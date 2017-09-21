@@ -1,7 +1,8 @@
 # How to Git Better at Git
 
 
-- By Anirudh PAT
+
+- By Anirudh PAT & Haleigh Graham
 
 ---
 
