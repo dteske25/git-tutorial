@@ -36,12 +36,12 @@ public class Program {
 		Scanner scan = new Scanner(System.in);
 		Boolean shouldExit = false;
 		while (!shouldExit) {
-			//TODO: List the possible options 
+			//TODO: List the possible options: "add", "edit", "delete", "list", "exit" 
 			input = scan.nextLine();
 			switch (input) {
 			//TODO: Add a case to create a person: see "ParseInput" method above
 			//TODO: Add a case to delete a person by email address
-			//TODO: Add a case to print all people
+			//TODO: Add a case to list all people
 			case "edit":
 				//TODO: Ask the user who to edit, and store that person in a local variable
 				Person tempPerson = new Person();
