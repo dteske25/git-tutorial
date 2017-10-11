@@ -1,4 +1,4 @@
-Hi
+>>>>> db97d3fcb7ffb2da0f08969033b77d5d7bff7868
 # How to Git Better at Git
 
 - Daric Teske and yah boi Sheng-Jie Lim
