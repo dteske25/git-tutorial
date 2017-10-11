@@ -1,7 +1,7 @@
 # How to Git Better at Git
 
 - Daric Teske
-
+- Branch by Jacob Peddicord
 ---
 
 usage: git [--version] [--help] [-C <path>] [-c name=value]  
