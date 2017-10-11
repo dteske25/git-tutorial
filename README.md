@@ -1,7 +1,9 @@
 Hi
 # How to Git Better at Git
 
-- Brady Klein
+Edited by Adam Zastrow and Brady Klein
+
+- Daric Teske
 
 ---
 
