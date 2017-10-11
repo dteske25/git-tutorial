@@ -1,4 +1,4 @@
-Hello
+Hi
 # How to Git Better at Git
 
 - Daric Teske
