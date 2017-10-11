@@ -31,7 +31,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		people = new ArrayList<Person>();
-		//TODO: Add a welcome message
+		System.out.println("Welcome to our website. Please enjoy!");
 		String input = "";
 		Scanner scan = new Scanner(System.in);
 		Boolean shouldExit = false;
