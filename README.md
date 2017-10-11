@@ -1,3 +1,4 @@
+Hi
 # How to Git Better at Git
 
 - Daric Teske and yah boi Sheng-Jie Lim
