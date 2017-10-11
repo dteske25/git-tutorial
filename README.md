@@ -5,8 +5,14 @@ YOOOOOOOOOOOOOOOOOO
 
 # How to Git Better at Git
 
+HEAD
 - Brady Klein
 
+6663ace00d04c8104d06130129c3a826fa73a959
+
+EDITED BY JACOB GIDEON
+
+- Daric Teske
 ---
 
 usage: git [--version] [--help] [-C <path>] [-c name=value]  
