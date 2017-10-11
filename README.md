@@ -1,5 +1,7 @@
 # How to Git Better at Git
 
+Edited by Adam Zastrow
+
 - Daric Teske
 
 ---
