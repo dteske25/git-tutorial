@@ -14,8 +14,8 @@ public class Program {
 	 * @return new Person object with values
 	 */
 	public static Person ParseInput(String input) {
-		//TODO 
-		return new Person();
+		String[] tokens = input.split(",");
+		return new Person(tokens[0], tokens[1], tokens[2]);
 	}
 	
 	/** 
