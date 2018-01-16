@@ -1,6 +1,8 @@
 # How to Git Better at Git
 
 - Daric Teske (obviously you mean Gauri Ramesh)
+- Reid Jones
+- Allison Inman didn't write this, Daric Teske did
 
 | table | with | emojis |
 | ----- | ---- | -----  |
@@ -16,7 +18,6 @@ for (let i = 0; i < 10000; i++) {
 
 # Downloading Git
 You may download git from the [git website](https://git-scm.com/)
-- Reid Jones
 
 ---
 
