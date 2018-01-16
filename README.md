@@ -1,4 +1,4 @@
-# How to Git Better at Git
+# How to Not Fail Software Engineering by Gitting Better at Git
 
 - Ann Pogrebitskiy
 this is a new edit
