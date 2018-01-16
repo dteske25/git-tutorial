@@ -1,6 +1,7 @@
 # How to Git Better at Git 
 
-- Reid Jones
+
+- Allison Inman didn't write this, Daric Teske did
 
 ---
 
