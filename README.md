@@ -3,6 +3,7 @@
 - Daric Teske 
 
 Apples and Banonos
+Allison Inman didn't write this, Daric Teske did
 
 ---
 
