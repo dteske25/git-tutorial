@@ -1,6 +1,8 @@
 # How to Git Better at Git
 
-- Daric Teske
+- Ann Pogrebitskiy
+this is a new edit
+
 
 ---
 
