@@ -16,6 +16,11 @@ for (let i = 0; i < 10000; i++) {
 
 # Downloading Git
 You may download git from the [git website](https://git-scm.com/)
+# How to Git Better at Git 
+
+- Daric Teske 
+
+Apples and Banonos
 
 ---
 
