@@ -56,6 +56,7 @@ Show various types of objects
 ## status 
 Show the working tree status
 
+Literally the most helpful command in the world
 
 ---
 
