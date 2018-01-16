@@ -1,6 +1,7 @@
 # How to Git Better at Git
 
-- Daric Teske
+
+- Allison Inman didn't write this, Daric Teske did
 
 ---
 
