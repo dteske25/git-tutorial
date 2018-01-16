@@ -2,6 +2,15 @@
 
 - Daric Teske
 
+| table | with | emojis |
+| ----- | ---- | -----  |
+| `🍞`  | `🥖` | `🍌`  |
+| `🌔`  | `👃` | `🦀`  |
+| `🥔`  | `⭕` | `🎉`  |
+
+# Downloading Git
+You may download git from the [git website](https://git-scm.com/)
+
 ---
 
 usage: git [--version] [--help] [-C <path>] [-c name=value]  
