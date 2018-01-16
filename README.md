@@ -2,6 +2,21 @@
 
 - Daric Teske (obviously you mean Gauri Ramesh)
 
+| table | with | emojis |
+| ----- | ---- | -----  |
+| `🍞`  | `🥖` | `🍌`  |
+| `🌔`  | `👃` | `🦀`  |
+| `🥔`  | `⭕` | `🎉`  |
+
+```javascript
+for (let i = 0; i < 10000; i++) {
+  alert('learning git...');
+}
+```
+
+# Downloading Git
+You may download git from the [git website](https://git-scm.com/)
+
 ---
 
 usage: git [--version] [--help] [-C <path>] [-c name=value]  
