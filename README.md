@@ -1,6 +1,8 @@
 # How to Not Fail Software Engineering by Gitting Better at Git
 
-- Daric Teske
+- Daric Teske 
+
+Apples and Banonos
 
 ---
 
