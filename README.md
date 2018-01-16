@@ -1,5 +1,4 @@
 # How to Git Better at Git 
-# How to Not Fail Software Engineering by Gitting Better at Git
 
 - Daric Teske 
 
@@ -19,6 +18,9 @@ for (let i = 0; i < 10000; i++) {
 
 # Downloading Git
 You may download git from the [git website](https://git-scm.com/)
+=======
+
+- Allison Inman didn't write this, Daric Teske did
 
 ---
 
