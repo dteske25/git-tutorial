@@ -8,6 +8,12 @@
 | `🌔`  | `👃` | `🦀`  |
 | `🥔`  | `⭕` | `🎉`  |
 
+```javascript
+for (let i = 0; i < 10000; i++) {
+  alert('learning git...');
+}
+```
+
 # Downloading Git
 You may download git from the [git website](https://git-scm.com/)
 
