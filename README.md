@@ -1,13 +1,7 @@
 # How to Not Fail Software Engineering by Gitting Better at Git
 
-- Ann Pogrebitskiy
-this is a new edit
 
-# How to Git Better at Git 
-
-- Daric Teske 
-
-Apples and Banonos
+- Allison Inman didn't write this, Daric Teske did. Wrong again, Ann did.
 
 ---
 
