@@ -1,6 +1,8 @@
-# How to Git Better at Git
+# How to Git Better at Git 
 
-- Daric Teske
+- Daric Teske 
+
+Apples and Banonos
 
 ---
 
