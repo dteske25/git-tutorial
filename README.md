@@ -3,6 +3,11 @@
 - Ann Pogrebitskiy
 this is a new edit
 
+# How to Git Better at Git 
+
+- Daric Teske 
+
+Apples and Banonos
 
 ---
 
