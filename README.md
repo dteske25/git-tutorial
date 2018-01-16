@@ -1,6 +1,6 @@
 # How to Git Better at Git
 
-- Daric Teske
+- Daric Teske (obviously you mean Gauri Ramesh)
 
 | table | with | emojis |
 | ----- | ---- | -----  |
