@@ -22,6 +22,8 @@ You may download git from the [git website](https://git-scm.com/)
 
 Apples and Banonos
 
+- Allison Inman didn't write this, Daric Teske did
+
 ---
 
 usage: git [--version] [--help] [-C <path>] [-c name=value]  
