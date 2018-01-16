@@ -1,4 +1,4 @@
-# How to Git Better at Git
+# How to Git Better at Git 
 
 - Reid Jones
 
